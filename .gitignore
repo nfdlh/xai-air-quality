@@ -1,0 +1,32 @@
+# Reference materials (not for submission)
+ref/
+AGENTS.md
+INSTRUCTIONS.md
+
+# macOS system files
+.DS_Store
+*/.DS_Store
+**/.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+*.egg
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large zip files (raw data archives)
+*.zip
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+
